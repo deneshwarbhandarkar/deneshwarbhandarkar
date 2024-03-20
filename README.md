@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deneshwarbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="deneshwarbhandarkar" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://deneshwarbhandarkar.github.io/Deneshwar-Portfolio/](https://deneshwarbhandarkar.github.io/Deneshwar-Portfolio/)
 

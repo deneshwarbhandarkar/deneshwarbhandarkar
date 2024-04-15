@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deneshwar Bhandarkar</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deneshwarbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="deneshwarbhandarkar" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 

@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://deneshwarbhandarkar.github.io/Deneshwar-Portfolio/](https://deneshwarbhandarkar.github.io/Deneshwar-Portfolio/)
-
 - 📫 How to reach me **deneshwarbhandarkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

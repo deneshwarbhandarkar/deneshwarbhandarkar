@@ -2,8 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **Full Stack Development**
-
 - 📫 How to reach me **deneshwarbhandarkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
